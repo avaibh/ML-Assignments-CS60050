@@ -1,0 +1,150 @@
+Auctions and Market-Based Systems	E-Commerce	Game Theory	Mechanism Design						
+Dimension Reduction/Feature Selection	Online Learning	Reinforcement Learning	Sequential Decision Making						
+Coordination and Collaboration	Game Theory								
+Heuristic Search	Evaluation and Analysis (Search and Optimization)	Search (General/Other)							
+Auctions and Market-Based Systems	E-Commerce	Mechanism Design							
+Vision, Object Recognition, and Perception									
+Relational/Graph-Based Learning	Semisupervised Learning								
+Action, Change, and Causality									
+Mechanism Design	Social Choice / Voting								
+Search (General/Other)	Information Retrieval	Machine Learning (General/other)							
+Distributed Problem Solving	Computational Social Science	Decision/Utility Theory							
+Cognitive Modeling									
+Big Data / Scalability	Machine Learning (General/other)	Probabilistic Inference	Relational Probabilistic Models						
+SAT and CSP: Solvers and Tools	Heuristic Search	Constraint Satisfaction							
+Bayesian Learning	Data Mining and Knowledge Discovery	Graphical Model Learning	Unsupervised Learning (Other)						
+Action, Change, and Causality	Bayesian Networks								
+Preferences/Ranking Learning									
+Social Choice / Voting									
+E-Commerce	Game Theory	Mechanism Design	Uncertainty in AI (General/Other)						
+Game Theory	Mechanism Design	Social Choice / Voting							
+Coordination and Collaboration	Game Theory	Mechanism Design	Social Networks						
+Constraint Optimization	Optimization	Ontologies	Clustering	Unsupervised Learning (Other)	Machine Learning (General/other)	Constraint Satisfaction			
+Clustering	Data Mining and Knowledge Discovery								
+Bayesian Networks	Graphical Models (Other)	Probabilistic Inference							
+Negotiation and Contract-Based Systems	Human-Computer Interaction								
+Classification									
+Constraint Optimization	SAT and CSP: Evaluation and Analysis	SAT and CSP: Modeling/Formulations	SAT and CSP: Solvers and Tools	Graphical Models (Other)	Probabilistic Inference	Relational Probabilistic Models			
+Online Learning	E-Commerce								
+Nonmonotonic Reasoning	Preferences	Qualitative Reasoning							
+Game Theory									
+Heuristic Search	Evaluation and Analysis (Search and Optimization)	Search (General/Other)							
+Preferences	Social Choice / Voting								
+Dimension Reduction/Feature Selection	Transfer, Adaptation, Multitask Learning	Machine Learning (General/other)							
+Other Applications	Human-Computer Interaction	Vision, Object Recognition, and Perception							
+Automated Reasoning and Theorem Proving	Uncertainty in AI (General/Other)								
+Action, Change, and Causality									
+Big Data / Scalability	Kernel Methods	Online Learning							
+Computational Social Science	Human-Computer Interaction								
+Optimization	Other Applications	Deterministic Planning	Planning (General/Other)						
+Negotiation and Contract-Based Systems	Multiagent Systems (General/other)								
+Bayesian Learning	Clustering	Unsupervised Learning (Other)							
+Classification									
+Dimension Reduction/Feature Selection	Neural Networks/Deep Learning	Unsupervised Learning (Other)	Machine Learning (General/other)						
+Heuristic Search	Optimization	Dimension Reduction/Feature Selection							
+Information Retrieval	Biomedical / Bioinformatics	Social Networks							
+Clustering	Evaluation and Analysis (Machine Learning)								
+Data Mining and Knowledge Discovery	AI and Natural Sciences								
+Constraint Satisfaction (General/other)	Constraint Satisfaction								
+SAT and CSP: Solvers and Tools	Heuristic Search	Logic Programming	Knowledge Representation (General/Other)						
+Social Choice / Voting									
+Coordination and Collaboration	Multiagent Systems (General/other)								
+Optimization	Clustering	Kernel Methods							
+Distributed Search	Mechanism Design	Multiagent Planning	Deterministic Planning						
+Constraint Optimization	Constraint Satisfaction (General/other)	Geometric, Spatial, and Temporal Reasoning	Scheduling						
+Unsupervised Learning (Other)	Machine Learning (General/other)								
+Game Theory	Social Choice / Voting								
+Human-Robot Interaction	Vision, Object Recognition, and Perception								
+Discourse and Dialogue	Semantics and Summarization	Natural Language Processing (General/Other)							
+Multiagent Planning	Planning (General/Other)								
+Action, Change, and Causality	Belief Change	Reasoning with Beliefs							
+Data Mining and Knowledge Discovery	Social Networks								
+Intelligent User Interfaces	Other Multidisciplinary Topics	Natural Language Processing (General/Other)							
+Action, Change, and Causality	Knowledge Representation (General/Other)	Games and Game Playing							
+Classification	Supervised Learning (Other)	Machine Learning (General/other)							
+Text Classification	Natural Language Processing (General/Other)								
+Preferences/Ranking Learning	Supervised Learning (Other)	Machine Learning (General/other)							
+SAT and CSP: Evaluation and Analysis	Constraint Satisfaction								
+Game Theory	Multiagent Learning								
+Preferences	Social Choice / Voting								
+Kernel Methods									
+E-Commerce	Evaluation and Analysis (Multiagent Systems)	Multiagent Systems (General/other)							
+Heuristic Search	Deterministic Planning								
+Classification	Ensemble Methods	Kernel Methods	Semisupervised Learning						
+Geometric, Spatial, and Temporal Reasoning	Temporal Planning	Constraint Satisfaction							
+Logic Programming	Nonmonotonic Reasoning								
+Global Constraints	Art and Music	Interactive Entertainment	Natural Language Processing (General/Other)	Constraint Satisfaction					
+E-Commerce	Game Theory	Mechanism Design	Multiagent Systems (General/other)						
+Ontologies	Knowledge-Based Systems (General/Other)	Computational Complexity of Reasoning	Description Logics						
+Semantics and Summarization									
+Mechanism Design	Sequential Decision Making								
+Classification	Preferences/Ranking Learning								
+Logic Programming	Nonmonotonic Reasoning								
+Agent Communication	Planning (General/Other)								
+Constraint Satisfaction (General/other)									
+Data Mining and Knowledge Discovery									
+Graphical Models (Other)	Probabilistic Inference	Relational Probabilistic Models							
+Game Theory	Multiagent Learning	Evaluation and Analysis (Multiagent Systems)	Multiagent Systems (General/other)						
+Bayesian Learning	Auctions and Market-Based Systems	Coordination and Collaboration	Game Theory	Mechanism Design	Computational Social Science	Human-Computer Interaction	Decision/Utility Theory	Probabilistic Inference	Uncertainty in AI (General/Other)
+Constraint Satisfaction									
+Active Learning	Classification								
+Information Extraction	Natural Language Processing (General/Other)								
+Classification	Structured Prediction								
+Knowledge Representation (General/Other)									
+Cognitive Modeling	Vision, Object Recognition, and Perception	Robotics (General/Other)							
+Classification	Supervised Learning (Other)	Computer-Aided Education	Cognitive Modeling						
+Game Theory									
+Coordination and Collaboration	Game Theory								
+Preferences/Ranking Learning	Relational/Graph-Based Learning	Computational Social Science							
+Optimization	Evolutionary Computation	Supervised Learning (Other)	Games and Game Playing						
+Constraint Optimization	Heuristic Search	Optimization	Metareasoning and Metaheuristics	Evaluation and Analysis (Search and Optimization)	Search (General/Other)	Biomedical / Bioinformatics			
+Structured Prediction									
+Relational/Graph-Based Learning									
+Optimization	Dimension Reduction/Feature Selection	Supervised Learning (Other)							
+Dimension Reduction/Feature Selection	Unsupervised Learning (Other)								
+Data Mining and Knowledge Discovery	Transfer, Adaptation, Multitask Learning								
+Computational Complexity of Reasoning	Case-Based Reasoning	Replanning and Plan Repair	Planning (General/Other)						
+Reinforcement Learning	Sequential Decision Making								
+Diagnosis and Abductive Reasoning	Reasoning with Beliefs	Bayesian Learning	Uncertainty in AI (General/Other)						
+Scheduling	Temporal Planning	Planning (General/Other)							
+Classification	Kernel Methods	Supervised Learning (Other)							
+Clustering	Data Mining and Knowledge Discovery								
+Classification	Dimension Reduction/Feature Selection	Biomedical / Bioinformatics							
+Metareasoning and Metaheuristics	Common-Sense Reasoning	Knowledge Representation Languages	Logic Programming	Nonmonotonic Reasoning					
+SAT and CSP: Solvers and Tools	Satisfiability (General/Other)								
+Machine Learning (General/other)	Cognitive Robotics	Vision, Object Recognition, and Perception	Robotics (General/Other)						
+Data Mining and Knowledge Discovery	Unsupervised Learning (Other)	Natural Language Processing (General/Other)							
+Agent/AI Theories and Architectures	Evaluation and Analysis (Multiagent Systems)	Multiagent Systems (General/other)							
+Reinforcement Learning	Multiagent Learning	Multiagent Planning							
+Computational Complexity of Reasoning	Bayesian Networks	Graphical Models (Other)							
+Machine Learning (General/other)	Natural Language Processing (General/Other)	Vision, Object Recognition, and Perception							
+Common-Sense Reasoning	Diagnosis and Abductive Reasoning	Planning (General/Other)							
+Evaluation and Analysis (Multiagent Systems)	Human-Computer Interaction	Security and Privacy							
+Action, Change, and Causality	Diagnosis and Abductive Reasoning	Other Applications	Model-Based Reasoning	Planning (General/Other)					
+Game Theory	Multiagent Systems (General/other)								
+Coordination and Collaboration	Distributed Problem Solving	Scheduling	Temporal Planning						
+Optimization	Online Learning	Time-Series/Data Streams	Machine Learning (General/other)	Other Applications					
+Transfer, Adaptation, Multitask Learning	Coordination and Collaboration	Multiagent Learning							
+SAT and CSP: Evaluation and Analysis	SAT and CSP: Solvers and Tools	Evaluation and Analysis (Search and Optimization)							
+Action, Change, and Causality	Geometric, Spatial, and Temporal Reasoning	Classification	Clustering	Learning Models for Planning and Diagnosis					
+Heuristic Search	Replanning and Plan Repair	Motion and Path Planning							
+Information Extraction									
+Logic Programming	Nonmonotonic Reasoning	Multi-Robot Systems							
+Reinforcement Learning	Coordination and Collaboration	Multiagent Learning							
+Reinforcement Learning	Multiagent Learning								
+SAT and CSP: Evaluation and Analysis	SAT and CSP: Solvers and Tools	Satisfiability (General/Other)							
+Social Choice / Voting									
+Optimization	Game Theory								
+Reinforcement Learning									
+Reinforcement Learning									
+Planning (General/Other)	Uncertainty in AI (General/Other)								
+Agent-based Simulation and Emergent Behavior	Computational Social Science	Social Networks							
+Unsupervised Learning (Other)	Natural Language Processing (General/Other)								
+Case-Based Reasoning	Deterministic Planning	Planning (General/Other)							
+Active Learning	Transfer, Adaptation, Multitask Learning								
+Big Data / Scalability	Graphical Model Learning	Structured Prediction							
+Information Extraction	Question Answering	Natural Language Processing (General/Other)							
+Game Theory	Mechanism Design								
+Natural Language Processing (General/Other)									
+Natural Language Processing (General/Other)	Robotics (General/Other)								
+Knowledge-Based Systems (General/Other)	Machine Learning (General/other)	Interactive Entertainment	Cognitive Modeling						
